@@ -1,0 +1,20 @@
+body {
+  height: 100%;
+}
+
+#header {
+  flex: 1;
+}
+
+#main {
+  height: 200px;
+}
+
+#footer {
+  flex: 1;
+}
+
+hr {
+  height: 3px;
+  color: black;
+}
